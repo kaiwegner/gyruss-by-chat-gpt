@@ -15,3 +15,9 @@ Here are the prompts used:
 
 
 The scene setup, assigning scripts, creation of prefabs and assets was done manually. 
+
+* White: Bullets
+* Green: Enemies
+* Cyan: Player
+
+![screenshot](screenshot.png)
